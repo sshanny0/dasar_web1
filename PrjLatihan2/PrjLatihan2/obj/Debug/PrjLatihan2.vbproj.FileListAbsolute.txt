@@ -1,0 +1,11 @@
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\bin\Debug\PrjLatihan2.exe.config
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\bin\Debug\PrjLatihan2.exe
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\bin\Debug\PrjLatihan2.pdb
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\bin\Debug\PrjLatihan2.xml
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.vbprojAssemblyReference.cache
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.Form1.resources
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.Resources.resources
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.vbproj.GenerateResource.cache
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.exe
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.xml
+D:\HAN\Coding\Visual Basic\PrjLatihan2\PrjLatihan2\obj\Debug\PrjLatihan2.pdb

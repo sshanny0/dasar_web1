@@ -1,0 +1,12 @@
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\bin\Debug\ContohOnline_2.exe.config
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\bin\Debug\ContohOnline_2.exe
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\bin\Debug\ContohOnline_2.pdb
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\bin\Debug\ContohOnline_2.xml
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.vbprojAssemblyReference.cache
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.Form1.resources
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.Resources.resources
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.vbproj.GenerateResource.cache
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.vbproj.CoreCompileInputs.cache
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.exe
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.xml
+D:\HAN\Coding\Visual Basic\ContohOnline_2\ContohOnline_2\obj\Debug\ContohOnline_2.pdb

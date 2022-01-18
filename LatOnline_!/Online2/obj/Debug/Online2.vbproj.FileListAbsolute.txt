@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Online2\Online2\bin\Debug\Online2.exe.config
+C:\Users\ASUS\source\repos\Online2\Online2\bin\Debug\Online2.exe
+C:\Users\ASUS\source\repos\Online2\Online2\bin\Debug\Online2.pdb
+C:\Users\ASUS\source\repos\Online2\Online2\bin\Debug\Online2.xml
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.Form1.resources
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.Resources.resources
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.exe
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.xml
+C:\Users\ASUS\source\repos\Online2\Online2\obj\Debug\Online2.pdb

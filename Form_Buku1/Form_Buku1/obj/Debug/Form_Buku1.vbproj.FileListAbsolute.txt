@@ -1,0 +1,5 @@
+D:\HAN\Coding\Visual Basic\Form_Buku1\Form_Buku1\obj\Debug\Form_Buku1.vbprojAssemblyReference.cache
+D:\HAN\Coding\Visual Basic\Form_Buku1\Form_Buku1\obj\Debug\Form_Buku1.Form_Login.resources
+D:\HAN\Coding\Visual Basic\Form_Buku1\Form_Buku1\obj\Debug\Form_Buku1.MenuUtama.resources
+D:\HAN\Coding\Visual Basic\Form_Buku1\Form_Buku1\obj\Debug\Form_Buku1.Resources.resources
+D:\HAN\Coding\Visual Basic\Form_Buku1\Form_Buku1\obj\Debug\Form_Buku1.vbproj.GenerateResource.cache

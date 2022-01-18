@@ -1,0 +1,11 @@
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\bin\Debug\UTS_PemrogramanVisual.exe.config
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\bin\Debug\UTS_PemrogramanVisual.exe
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\bin\Debug\UTS_PemrogramanVisual.pdb
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\bin\Debug\UTS_PemrogramanVisual.xml
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.vbprojAssemblyReference.cache
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.Form1.resources
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.Resources.resources
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.vbproj.GenerateResource.cache
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.exe
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.xml
+D:\HAN\Coding\Visual Basic\UTS_PemrogramanVisual\UTS_PemrogramanVisual\obj\Debug\UTS_PemrogramanVisual.pdb

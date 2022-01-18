@@ -1,0 +1,12 @@
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\bin\Debug\DATA_BUKU.exe.config
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\bin\Debug\DATA_BUKU.exe
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\bin\Debug\DATA_BUKU.pdb
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\bin\Debug\DATA_BUKU.xml
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.vbprojAssemblyReference.cache
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.Resources.resources
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.vbproj.GenerateResource.cache
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.exe
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.xml
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.pdb
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\obj\Debug\DATA_BUKU.Form1.resources
+D:\HAN\Coding\Visual Basic\DATA_BUKU\DATA_BUKU\bin\Debug\dbBuku.accdb

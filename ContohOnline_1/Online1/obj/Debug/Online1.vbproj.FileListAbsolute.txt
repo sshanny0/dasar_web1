@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.Form1.resources
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.Resources.resources
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Online1\Online1\bin\Debug\Online1.exe.config
+C:\Users\ASUS\source\repos\Online1\Online1\bin\Debug\Online1.exe
+C:\Users\ASUS\source\repos\Online1\Online1\bin\Debug\Online1.pdb
+C:\Users\ASUS\source\repos\Online1\Online1\bin\Debug\Online1.xml
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.exe
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.xml
+C:\Users\ASUS\source\repos\Online1\Online1\obj\Debug\Online1.pdb
+D:\HAN\Coding\Visual Basic\ContohOnline_1\Online1\bin\Debug\Online1.exe.config
+D:\HAN\Coding\Visual Basic\ContohOnline_1\Online1\obj\Debug\Online1.exe
+D:\HAN\Coding\Visual Basic\ContohOnline_1\Online1\obj\Debug\Online1.xml
+D:\HAN\Coding\Visual Basic\ContohOnline_1\Online1\obj\Debug\Online1.pdb
